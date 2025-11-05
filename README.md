@@ -17,7 +17,7 @@ The analysis answers the following key questions:
 * **numpy** – for numerical computation
 * **matplotlib / seaborn** – for visualization
 * **Jupyter Notebook** – for analysis and exploration
-## 📊 Dataset Description
+##Dataset Description
 
 The dataset contains Netflix titles with columns such as:
 
@@ -82,5 +82,5 @@ The dataset contains Netflix titles with columns such as:
 ## Author
 
 **Akshita Choudhary**
-🎓 *B.Tech in Artificial Intelligence and Machine Learning*
+*B.Tech in Artificial Intelligence and Machine Learning*
 
