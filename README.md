@@ -17,12 +17,12 @@ The analysis answers the following key questions:
 * **numpy** – for numerical computation
 * **matplotlib / seaborn** – for visualization
 * **Jupyter Notebook** – for analysis and exploration
-##Dataset Description
+
 
 The dataset contains Netflix titles with columns such as:
 
 * **Title**
-* **Genre(s)**
+* **Genre**
 * **Popularity**
 * **Votes**
 * **Release Year**
